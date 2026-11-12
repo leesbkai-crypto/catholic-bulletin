@@ -1,5 +1,0 @@
-Plaintext
-
-streamlit
-requests
-beautifulsoup4
